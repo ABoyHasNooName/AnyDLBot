@@ -198,7 +198,7 @@ def button(bot, update):
             chat_id=query.message.chat_id,
             message_id=query.message.message_id
         )
-        description = " " + " \r\n© @AnyDLBot"
+        description = " " + " \r\n© @ABUtubeDLBot"
         if "description" in response_json:
             description = " " + str(response_json["description"])[0:150] + " \r\n© @AnyDLBot"
         download_directory = ""
