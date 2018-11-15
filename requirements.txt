@@ -6,4 +6,4 @@ urllib3==1.22
 youtube-dl
 hachoir
 git+git://github.com/google/chatbase-python.git
-
+ffmpeg
